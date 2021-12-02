@@ -1,0 +1,343 @@
+#splitNetHost
+M-Network Address: ['177', '100'] 
+M-Host Address: ['18', '4']
+ 
+M-Network Address: 119 
+M-Host Address: ['18', '45', '0']
+ 
+M-Network Address: ['209', '240', '80'] 
+M-Host Address: 78
+ 
+M-Network Address: ['199', '155', '77'] 
+M-Host Address: 56
+ 
+M-Network Address: 117 
+M-Host Address: ['89', '56', '45']
+ 
+M-Network Address: ['215', '45', '45'] 
+M-Host Address: 0
+ 
+M-Network Address: ['192', '200', '15'] 
+M-Host Address: 0
+ 
+M-Network Address: 95 
+M-Host Address: ['0', '21', '90']
+ 
+M-Network Address: 33 
+M-Host Address: ['0', '0', '0']
+ 
+M-Network Address: ['158', '98'] 
+M-Host Address: ['88', '0']
+ 
+M-Network Address: ['217', '21', '56'] 
+M-Host Address: 0
+ 
+M-Network Address: 10 
+M-Host Address: ['250', '1', '1']
+ 
+M-Network Address: ['150', '10'] 
+M-Host Address: ['15', '0']
+ 
+M-Network Address: ['192', '14', '2'] 
+M-Host Address: 0
+ 
+M-Network Address: ['148', '17'] 
+M-Host Address: ['9', '1']
+ 
+M-Network Address: ['193', '42', '1'] 
+M-Host Address: 1
+ 
+M-Network Address: 126 
+M-Host Address: ['8', '156', '0']
+ 
+M-Network Address: ['220', '200', '23'] 
+M-Host Address: 1
+ 
+M-Network Address: 10 
+M-Host Address: ['15', '123', '50']
+ 
+M-Network Address: ['171', '2'] 
+M-Host Address: ['199', '31']
+ 
+M-Network Address: ['198', '125', '87'] 
+M-Host Address: 177
+ 
+M-Network Address: ['223', '250', '200'] 
+M-Host Address: 222
+ 
+M-Network Address: 17 
+M-Host Address: ['45', '222', '45']
+ 
+M-Network Address: 126 
+M-Host Address: ['201', '54', '231']
+ 
+M-Network Address: ['191', '41'] 
+M-Host Address: ['35', '112']
+ 
+M-Network Address: 115 
+M-Host Address: ['25', '169', '227']
+ 
+M-Network Address: ['192', '15', '155'] 
+M-Host Address: 2
+ 
+M-Network Address: 123 
+M-Host Address: ['102', '45', '254']
+ 
+M-Network Address: ['148', '17'] 
+M-Host Address: ['9', '155']
+ 
+M-Network Address: 100 
+M-Host Address: ['25', '1', '1']
+ 
+M-Network Address: ['195', '0', '21'] 
+M-Host Address: 98
+ 
+M-Network Address: 25 
+M-Host Address: ['250', '135', '46']
+ 
+M-Network Address: ['171', '102'] 
+M-Host Address: ['77', '77']
+ 
+M-Network Address: 55 
+M-Host Address: ['250', '5', '5']
+ 
+M-Network Address: ['218', '155', '230'] 
+M-Host Address: 14
+ 
+M-Network Address: 10 
+M-Host Address: ['250', '1', '1']
+ 
+#netHostAdd
+Host Address: 0.0.8.2. 
+Network Address: 188.10.0.0. 
+ 
+Host Address: 0.0.0.80. 
+Network Address: 10.10.48.0. 
+ 
+Host Address: 0.0.0.191. 
+Network Address: 192.149.24.0. 
+ 
+Host Address: 0.0.23.19. 
+Network Address: 150.203.0.0. 
+ 
+Host Address: 0.10.10.10. 
+Network Address: 10.0.0.0. 
+ 
+Host Address: 0.0.0.110. 
+Network Address: 186.13.23.0. 
+ 
+Host Address: 0.0.230.250. 
+Network Address: 223.69.0.0. 
+ 
+Host Address: 0.0.0.15. 
+Network Address: 200.120.135.0. 
+ 
+Host Address: 0.125.200.151. 
+Network Address: 27.0.0.0. 
+ 
+Host Address: 0.0.0.35. 
+Network Address: 199.20.150.0. 
+ 
+Host Address: 0.0.0.135. 
+Network Address: 191.55.165.0. 
+ 
+Host Address: 0.0.250.254. 
+Network Address: 28.212.0.0. 
+ 
+Host Address: 0.0.0.11. 
+Network Address: 222.49.49.0. 
+ 
+#findHostBroad
+Network Address(Host=0): 10.130.46.168 
+1st Address: 10.130.46.169 
+Last Address: 10.130.46.174 
+Broadcast Address(Host=1): 10.130.46.175 
+ 
+#splitNetHost
+M-Network Address: ['177', '100'] 
+M-Host Address: ['18', '4']
+ 
+M-Network Address: 119 
+M-Host Address: ['18', '45', '0']
+ 
+M-Network Address: ['209', '240', '80'] 
+M-Host Address: 78
+ 
+M-Network Address: ['199', '155', '77'] 
+M-Host Address: 56
+ 
+M-Network Address: 117 
+M-Host Address: ['89', '56', '45']
+ 
+M-Network Address: ['215', '45', '45'] 
+M-Host Address: 0
+ 
+M-Network Address: ['192', '200', '15'] 
+M-Host Address: 0
+ 
+M-Network Address: 95 
+M-Host Address: ['0', '21', '90']
+ 
+M-Network Address: 33 
+M-Host Address: ['0', '0', '0']
+ 
+M-Network Address: ['158', '98'] 
+M-Host Address: ['88', '0']
+ 
+M-Network Address: ['217', '21', '56'] 
+M-Host Address: 0
+ 
+M-Network Address: 10 
+M-Host Address: ['250', '1', '1']
+ 
+M-Network Address: ['150', '10'] 
+M-Host Address: ['15', '0']
+ 
+M-Network Address: ['192', '14', '2'] 
+M-Host Address: 0
+ 
+M-Network Address: ['148', '17'] 
+M-Host Address: ['9', '1']
+ 
+M-Network Address: ['193', '42', '1'] 
+M-Host Address: 1
+ 
+M-Network Address: 126 
+M-Host Address: ['8', '156', '0']
+ 
+M-Network Address: ['220', '200', '23'] 
+M-Host Address: 1
+ 
+M-Network Address: 10 
+M-Host Address: ['15', '123', '50']
+ 
+M-Network Address: ['171', '2'] 
+M-Host Address: ['199', '31']
+ 
+M-Network Address: ['198', '125', '87'] 
+M-Host Address: 177
+ 
+M-Network Address: ['223', '250', '200'] 
+M-Host Address: 222
+ 
+M-Network Address: 17 
+M-Host Address: ['45', '222', '45']
+ 
+M-Network Address: 126 
+M-Host Address: ['201', '54', '231']
+ 
+M-Network Address: ['191', '41'] 
+M-Host Address: ['35', '112']
+ 
+M-Network Address: 115 
+M-Host Address: ['25', '169', '227']
+ 
+M-Network Address: ['192', '15', '155'] 
+M-Host Address: 2
+ 
+M-Network Address: 123 
+M-Host Address: ['102', '45', '254']
+ 
+M-Network Address: ['148', '17'] 
+M-Host Address: ['9', '155']
+ 
+M-Network Address: 100 
+M-Host Address: ['25', '1', '1']
+ 
+M-Network Address: ['195', '0', '21'] 
+M-Host Address: 98
+ 
+M-Network Address: 25 
+M-Host Address: ['250', '135', '46']
+ 
+M-Network Address: ['171', '102'] 
+M-Host Address: ['77', '77']
+ 
+M-Network Address: 55 
+M-Host Address: ['250', '5', '5']
+ 
+M-Network Address: ['218', '155', '230'] 
+M-Host Address: 14
+ 
+M-Network Address: 10 
+M-Host Address: ['250', '1', '1']
+ 
+#netHostAdd
+Host Address: 0.0.8.2. 
+Network Address: 188.10.0.0. 
+ 
+Host Address: 0.0.0.80. 
+Network Address: 10.10.48.0. 
+ 
+Host Address: 0.0.0.191. 
+Network Address: 192.149.24.0. 
+ 
+Host Address: 0.0.23.19. 
+Network Address: 150.203.0.0. 
+ 
+Host Address: 0.10.10.10. 
+Network Address: 10.0.0.0. 
+ 
+Host Address: 0.0.0.110. 
+Network Address: 186.13.23.0. 
+ 
+Host Address: 0.0.230.250. 
+Network Address: 223.69.0.0. 
+ 
+Host Address: 0.0.0.15. 
+Network Address: 200.120.135.0. 
+ 
+Host Address: 0.125.200.151. 
+Network Address: 27.0.0.0. 
+ 
+Host Address: 0.0.0.35. 
+Network Address: 199.20.150.0. 
+ 
+Host Address: 0.0.0.135. 
+Network Address: 191.55.165.0. 
+ 
+Host Address: 0.0.250.254. 
+Network Address: 28.212.0.0. 
+ 
+Host Address: 0.0.8.2. 
+Network Address: 188.10.0.0. 
+ 
+Host Address: 0.0.0.80. 
+Network Address: 10.10.48.0. 
+ 
+Host Address: 0.0.0.11. 
+Network Address: 222.49.49.0. 
+ 
+Host Address: 0.0.230.19. 
+Network Address: 128.23.0.0. 
+ 
+Host Address: 0.10.10.10. 
+Network Address: 10.0.0.0. 
+ 
+Host Address: 0.0.0.11. 
+Network Address: 200.113.123.0. 
+ 
+Host Address: 0.0.23.20. 
+Network Address: 223.169.0.0. 
+ 
+Host Address: 0.0.0.215. 
+Network Address: 203.20.35.0. 
+ 
+Host Address: 0.15.2.51. 
+Network Address: 117.0.0.0. 
+ 
+Host Address: 0.0.0.135. 
+Network Address: 199.120.15.0. 
+ 
+Host Address: 0.0.0.135. 
+Network Address: 191.55.165.0. 
+ 
+Host Address: 0.0.25.54. 
+Network Address: 48.21.0.0. 
+ 
+#findHostBroad
+Network Address(Host=0): 10.130.46.168 
+1st Address: 10.130.46.169 
+Last Address: 10.130.46.174 
+Broadcast Address(Host=1): 10.130.46.175 
+ 
